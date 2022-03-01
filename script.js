@@ -23,8 +23,9 @@ console.log(`===================`);
 let harryPotterMovies = [0]
 
 while (harryPotterMovies < 8){
-    console.log(harryPotterMovies);
+    // console.log(harryPotterMovies);
     harryPotterMovies++;
 }
 
 console.log(harryPotterMovies);
+
